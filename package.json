@@ -1,0 +1,26 @@
+{
+  "name": "week-9-hw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Israel Beltran",
+  "license": "ISC",
+  "dependencies": {
+    "api.js": "0.0.5",
+    "axios": "^0.19.0",
+    "dotenv": "^8.0.0",
+    "electron": "^5.0.3",
+    "electron-html-to": "^2.6.0",
+    "inquirer": "^6.3.1",
+    "open": "^6.3.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/israelb213/profile_generator"
+  },
+  "homepage": "https://github.com/israelb213/profile_generator#readme"
+}
